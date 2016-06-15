@@ -1,0 +1,20 @@
+#mainPopup {
+    height: 200px;
+    width: 400px;
+    padding: 10px;
+}
+
+#colorbox {
+    width:200px;
+    padding: 40px 10px 10px 10px;
+}
+
+#colorText {
+    font-size:24px;
+    font-family: 'Roboto', sans-serif;
+    font-weight:300;
+    text-align:center;
+    color: #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 0 1px 0 0 #000;
+}
